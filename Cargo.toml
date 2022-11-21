@@ -1,0 +1,11 @@
+[workspace]
+members = ["pacs/"]
+
+[workspace.package]
+version = "0.1.0"
+keywords = ["no-std", "arm", "cortex-m", "mm32", "peripherals"]
+license = "0BSD"
+repository = "https://github.com/nrf-rs/nrf-pacs"
+edition = "2021"
+readme = "README.md"
+
