@@ -12349,7 +12349,7 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               <bitOffset>23</bitOffset>
               <bitWidth>3</bitWidth>
               <access>read-only</access>
-              <modifiedWriteValues></modifiedWriteValues>
+              <!-- <modifiedWriteValues/> -->
             </field>
             <field>
               <name>TPS</name>
@@ -12357,7 +12357,7 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               <bitOffset>20</bitOffset>
               <bitWidth>3</bitWidth>
               <access>read-only</access>
-              <modifiedWriteValues></modifiedWriteValues>
+              <!-- <modifiedWriteValues/> -->
             </field>
             <field>
               <name>RPS</name>
@@ -12365,7 +12365,7 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               <bitOffset>17</bitOffset>
               <bitWidth>3</bitWidth>
               <access>read-only</access>
-              <modifiedWriteValues></modifiedWriteValues>
+              <!-- <modifiedWriteValues/> -->
             </field>
             <field>
               <name>NIS</name>
