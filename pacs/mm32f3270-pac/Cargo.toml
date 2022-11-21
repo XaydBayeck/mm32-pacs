@@ -1,5 +1,7 @@
 [package]
 name = "mm32f3270-pac"
+description = "Peripheral Access Crate for MindMotion's mm32f3270 microcontroller"
+documentation = "https://docs.rs/mm32f3270-pac"
 version.workspace = true
 keywords.workspace = true
 license.workspace = true
